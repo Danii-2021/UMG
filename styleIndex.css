@@ -1,0 +1,65 @@
+* {
+	font-family: sans-serif;
+	color: white;
+	margin: 0%;
+}
+
+body{
+	width: 80%;
+	margin: auto;
+	background: black;
+}
+
+header {
+	background: #212F3C;
+	padding: 2%;
+	width: 96%;
+}
+
+
+.titulo{
+	width: 100%;
+	text-align: center;
+}
+
+
+.encabezado {
+	font-size: 17px;
+}
+
+.Opciones{
+	background: #0E6655;
+	width: 90%;
+	padding: 5%;
+	font-size: 20px;
+	font-style: bold;
+}
+
+.menu{
+	width: 40%;
+	text-align: center;
+	border: 3px solid white;
+	margin-right: auto;
+	margin-left: auto;
+	background: #28B463;
+}
+
+.menu h2{
+	padding: 6% ;
+}
+
+.menu a{
+	display: block;
+	text-decoration: none;
+
+}
+
+footer {
+	background: #212F3C;
+	padding: 2%;
+	clear: both;
+}
+
+li{
+	list-style: none;
+}
